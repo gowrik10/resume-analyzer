@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Here is your **clean final README (no emojis, properly formatted, corrected Markdown, production-ready)**:
-
 ---
 
 # AI Resume Analyzer
@@ -251,12 +248,4 @@ This project demonstrates a complete ATS-style Resume Analyzer with:
 
 ---
 
-If you want next upgrade, I can help you make:
 
-* GitHub README with badges + screenshots (very professional)
-* Resume project description (for placements)
-* LinkedIn post (high engagement style)
-=======
-# resume-analyzer
-AI-powered Resume Analyzer that evaluates resumes using rule-based logic and ATS scoring. It provides section-wise analysis, keyword highlighting, job matching, and downloadable PDF reports. Built with React, Node.js, and Express.
->>>>>>> 1d1b62a06b0487a3f0742517e83ea9d7197d80c0
