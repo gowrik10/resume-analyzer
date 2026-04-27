@@ -24,7 +24,7 @@ It also supports job description matching, section-wise scoring, keyword highlig
 * Resume upload (PDF)
 * AI-inspired rule-based analysis
 * Job description matching
-* Overall ATS score (0–100)
+* Overall ATS score (0-100)
 * Section-wise scoring (Skills, Experience, Projects, etc.)
 * Key strengths detection
 * Areas for improvement
@@ -247,5 +247,3 @@ This project demonstrates a complete ATS-style Resume Analyzer with:
 * Keyword intelligence system
 
 ---
-
-
